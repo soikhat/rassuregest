@@ -1,0 +1,14 @@
+uuid: 12549fcc-8873-4e7e-b8dd-43804c969c99
+name: rassurgest
+mail: contact@agc-comoreassur.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
